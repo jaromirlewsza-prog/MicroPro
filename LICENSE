@@ -1,0 +1,66 @@
+# License Information
+
+## MicroPRO Application
+
+**Copyright © 2025 MicroPRO Development Team**
+
+This application (MicroPRO) is currently **proprietary and unlicensed**.
+
+The specific license type for this application will be determined and published at a later stage when the project reaches production maturity.
+
+**All rights reserved** for the application code, design, and associated documentation until a formal license is chosen.
+
+---
+
+## Third-Party Components
+
+### Claude Code Subagents
+
+This project was developed with assistance from **Claude Code Subagents**, which are distributed under the MIT License.
+
+**Claude Code Subagents License:**
+
+```
+MIT License
+
+Copyright (c) 2025 0xfurai
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+Source: https://github.com/0xfurai/claude-code-subagents
+
+**Note:** The MIT license for Claude Code Subagents applies only to the AI assistant tools used during development. It does **not** apply to the eFaktura Pro application itself.
+
+---
+
+## Open Source Dependencies
+
+This project will use various open-source libraries and frameworks, each with their own licenses
+
+
+All open-source dependencies retain their original licenses as specified in their respective projects.
+
+---
+
+## Contact
+
+For licensing inquiries or questions, please contact the project maintainers via GitHub issues.
+
+---
